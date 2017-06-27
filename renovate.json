@@ -3,7 +3,7 @@
   "packageFiles": [],
   "depTypes": ["dependencies", "devDependencies", "optionalDependencies"],
   "ignoreDeps": [],
-  "pinVersions": true,
+  "pinVersions": false,
   "separateMajorReleases": true,
   "rebaseStalePrs": false,
   "prCreation": "immediate",
