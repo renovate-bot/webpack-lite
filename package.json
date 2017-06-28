@@ -81,7 +81,7 @@
   "web": "lib/webpack.web.js",
   "bin": "./bin/webpack.js",
   "renovate": {
-    pinVerions: false
+    "pinVerions": false
   },
   "files": [
     "lib/",
