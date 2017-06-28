@@ -80,6 +80,9 @@
   "main": "lib/webpack.js",
   "web": "lib/webpack.web.js",
   "bin": "./bin/webpack.js",
+  "renovate": {
+    pinVerions: false
+  },
   "files": [
     "lib/",
     "bin/",
